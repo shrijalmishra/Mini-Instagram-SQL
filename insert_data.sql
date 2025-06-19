@@ -1,4 +1,3 @@
--- user
 insert into users values ('srishty' , 'srishtymishra21@gmail.com' , 'Creating Sunshine' , 21 , '2005-07-21'),
                         ('shrijal' , 'shrijalmishra21@gmail.com' , '	Capturing Moment' , 15 , '2005-07-15'),
 			('yogita' , 'yogitamishra27@gmail.com' , 'A night owl' , 25 , '2000-10-27'),
